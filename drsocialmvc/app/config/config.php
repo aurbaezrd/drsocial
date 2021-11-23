@@ -1,3 +1,11 @@
 <?php
+
 // App Root
-echo __FILE__;
+define('APPROOT', dirname(dirname(__FILE__)));
+
+// URL Root
+define('URLROOT', 'http://localhost/drsocialmvc');
+
+// Site Name
+define('SITENAME', 'DRSocialMVC');
+
