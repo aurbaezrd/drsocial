@@ -1,2 +1,2 @@
 # drsocial
-This project is an example of social network simply built with MVC.
+This project is an example of a social network simply built with MVC.
